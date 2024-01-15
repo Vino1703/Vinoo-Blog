@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg width="151" height="28" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip0_1_2">
+   <rect fill="white" height="28" id="svg_1" width="151"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#clip0_1_2)" id="svg_2">
+   <path d="m14.14,19.64c0,0.15 0.12,0.27 0.26,0.27l6.48,0c0.14,0 0.26,-0.12 0.26,-0.27l0,-1.69c0,-0.15 -0.12,-0.27 -0.26,-0.27l-6.48,0c-0.14,0 -0.26,0.12 -0.26,0.27l0,1.69zm-6.82,0.21l6.72,-5.64c0.13,-0.11 0.13,-0.32 0,-0.43l-6.72,-5.63c-0.04,-0.03 -0.09,-0.06 -0.14,-0.06c-0.06,-0.01 -0.11,0 -0.16,0.02c-0.05,0.02 -0.09,0.06 -0.12,0.1c-0.03,0.05 -0.04,0.1 -0.04,0.16l0,2.19c0,0.08 0.03,0.16 0.1,0.21l3.84,3.23l-3.84,3.23c-0.03,0.02 -0.06,0.06 -0.07,0.09c-0.02,0.04 -0.03,0.08 -0.03,0.12l0,2.2c0,0.23 0.28,0.36 0.46,0.21zm19.56,-19.85l-25.76,0c-0.62,0 -1.12,0.5 -1.12,1.12l0,25.76c0,0.62 0.5,1.12 1.12,1.12l25.76,0c0.62,0 1.12,-0.5 1.12,-1.12l0,-25.76c0,-0.62 -0.5,-1.12 -1.12,-1.12zm-1.4,25.48l-22.96,0l0,-22.96l22.96,0l0,22.96z" fill="#FF651C" id="svg_8"/>
+   <text fill="#000000" font-family="Serif" font-size="27" font-weight="bold" id="svg_17" stroke-width="0" text-anchor="middle" transform="matrix(2.09452 0 0 1.56798 -50.6111 4.43413)" x="46" xml:space="preserve" y="13">v</text>
+   <text fill="#000000" font-family="Times" font-size="49" font-weight="bold" id="svg_29" stroke-width="0" text-anchor="middle" x="75.59" xml:space="preserve" y="25.55">i</text>
+  </g>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_14" stroke-width="0" text-anchor="middle" x="51.68" xml:space="preserve" y="13.86"/>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_13" stroke-width="0" text-anchor="middle" x="44.68" xml:space="preserve" y="11.86"/>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_11" stroke-width="0" text-anchor="middle" x="51.68" xml:space="preserve" y="13.86"/>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_10" stroke-width="0" text-anchor="middle" x="46.68" xml:space="preserve" y="12.86"/>
+  <text fill="#000000" font-family="Times" font-size="32" font-weight="bold" id="svg_28" stroke-width="0" text-anchor="middle" transform="matrix(1.28869 0 0 1.06915 -36.9729 0.171418)" word-spacing="0" x="131.9" xml:space="preserve" y="23.94">0</text>
+  <text fill="#000000" font-family="Times" font-size="30" font-weight="bold" id="svg_30" stroke-width="0" text-anchor="middle" x="102.59" xml:space="preserve" y="25.55">N</text>
+ </g>
+</svg>
